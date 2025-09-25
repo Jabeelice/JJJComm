@@ -10,5 +10,8 @@
   "statisticPeriod": "ALL",
   "taskType": "SH",
   "customFieldValues": {
+  },
+  "processingCommand": {
+    "script": "sleep 100"
   }
 }
